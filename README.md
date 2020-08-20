@@ -3,26 +3,26 @@
  ### SurveyServer URL
   http://120.79.148.199/SurveyServer
  ### Members Introduction
- + 20171655 Qingyu Han
+ + Qingyu Han
     **Group leader**
     + Responsible for the construction of the server.
     + Overall task arrangement and personnel scheduling.
     + Overall UI design
     + System function logic design
     ---
- + 20171654 Shujie Wang
+ + Shujie Wang
     Group member
     + Data structure design
     + Database design
     + Dynamic page generation
     ---
- + 20171656 Qirong Zhao
+ + Qirong Zhao
     Group menber
     + Gesture unlocking function
     + Time acquisition implementation
     + Realization of longitude and latitude acquisition
     ---
- + 20171659 Yi Liu
+ + Yi Liu
     Group menber
     + QR code scanning
     + File download
